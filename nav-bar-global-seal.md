@@ -1,4 +1,5 @@
 <!-- vue components -->
+```js
 <template>
   <ul class="tab-bar">
     <router-link to="/xx" tag="li">
@@ -101,3 +102,4 @@ export default {
   }
 }
 </style>
+```
